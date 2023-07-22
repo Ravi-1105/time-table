@@ -15,13 +15,13 @@ Execute the program
 
 # CODE
 
-<!DOCTYPE html>
-<head>
+//<!DOCTYPE html>
+//<head>
  <title>SEC SLOT TIME TABLE</title>
 </head>
 
 <img src="logo.png" width='600'alig n='center'>
-<body>
+//<body>
 
     <table BORDER='3' width='600' bgcolor='cyan' cellspacing='3' cellpaddling='3'>
 
