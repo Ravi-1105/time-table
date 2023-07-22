@@ -14,14 +14,19 @@ Add your timetable
 Execute the program
 
 # CODE
+
 <!DOCTYPE html>
 <head>
-    <title>SEC SLOT TIMETABLE</title>
+ <title>SEC SLOT TIME TABLE</title>
 </head>
-<img src="logo.png" width='600'align='center'>
+
+<img src="logo.png" width='600'alig n='center'>
 <body>
+
     <table BORDER='3' width='600' bgcolor='cyan' cellspacing='3' cellpaddling='3'>
+
         <CAPTION align="above">SLOT TIMETABLE-SAJETHA (23006123)</CAPTION>
+
         <tr>
             <th align="center" bgcolor="yellow">Day/Time</th>
             <th align="center" bgcolor="yellow">Monday</th>
@@ -116,4 +121,4 @@ Execute the program
 </html>
 
 # OUPUT
-![Slot Time-table Sajetha](slottimetable.png)
+![Slot Time-table Sajetha](timetable.png)
