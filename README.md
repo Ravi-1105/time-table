@@ -120,5 +120,5 @@ Execute the program
 </body>
 </html>
 ```
-# OUPUT
+# OUTPUT
 ![Slot Time-table Sajetha](timetable.png)
