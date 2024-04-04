@@ -20,12 +20,12 @@ Execute the program
  <title>SEC SLOT TIME TABLE</title>
 </head>
 
-<img src="logo.png" width='600'align='center'>
+<img src="Saveetha_LOGO.png" width='600'align='center'>
 <body>
 
     <table BORDER='3' width='600' bgcolor='cyan' cellspacing='3' cellpaddling='3'>
 
-        <CAPTION align="above">SLOT TIMETABLE-SAJETHA (23006123)</CAPTION>
+        <CAPTION align="above">SLOT TIMETABLE-RAVIVARMAN G S (23006420)</CAPTION>
 
         <tr>
             <th align="center" bgcolor="yellow">Day/Time</th>
@@ -121,4 +121,4 @@ Execute the program
 </html>
 ```
 # OUTPUT
-![Slot Time-table Sajetha](timetable.png)
+![timetable](https://github.com/Ravi-1105/time-table/assets/139841688/242eec6d-6fea-4a20-ae06-91374e3c39d4)
